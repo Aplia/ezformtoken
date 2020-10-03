@@ -1,0 +1,12 @@
+{
+    "name": "aplia/ezformtoken",
+    "description": "eZ Form token",
+    "keywords": ["ezextension", "formtoken"],
+    "homepage": "https://github.com/Aplia/ezformtoken",
+    "type": "ezpublish-legacy-extension",
+    "license": "GPL-2.0",
+    "require": {
+        "php": ">=5.3",
+        "composer/composer": ">=1.0"
+    }
+}
